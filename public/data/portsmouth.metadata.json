@@ -1,0 +1,9 @@
+{ 
+  "dataFile": "portsmouth.geojson",
+
+  "locationName": "Portsmouth",
+  "stateName": "Va.",
+  "googleMapsQuery": "Portsmouth, VA",
+
+  "authorTwitter": "oilytheotter"
+}
